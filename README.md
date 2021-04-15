@@ -5,6 +5,10 @@ Node-red
 
 Radwag-mass node enables obtaining mass result from Radwag devices via TCP connection.
 
+Package available :
+
+https://www.npmjs.com/package/radwag-mass
+
 ![Alt text](/flow.png)
 
 
