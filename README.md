@@ -24,3 +24,7 @@ The payload description :
 	range: Describes current range - mostly important when scale is multi-range
 	digit: Determines count of highlighted digits when scale is legalized
 	hidden: Determines count of hidden digits when scale is legalized
+	
+
+For more information and detailed instruction refer to:
+http://filecloud.radwag.com/index.php/s/MQNkeWFxEdOJLJh
